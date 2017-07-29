@@ -1,0 +1,22 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "kursFrontEnd",
+  "main": "index.js",
+  "scripts": {
+    "test": "kfe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/savespace/KURS-KODILLA.git"
+  },
+  "keywords": [
+    "front-end"
+  ],
+  "author": "Krzysztof Zielonka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savespace/KURS-KODILLA/issues"
+  },
+  "homepage": "https://github.com/savespace/KURS-KODILLA#readme"
+}
